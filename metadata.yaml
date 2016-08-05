@@ -1,0 +1,31 @@
+_repo: Ice-Creams-Water-Ices-Frozen-Puddings-Together-with-Refreshments-for-all-Social-Affairs_8501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rorer, S. T.
+    aliases:
+    - Rorer, Sarah Tyson Heston
+    - Rorer, Mrs. (Sarah Tyson)
+    birthdate: 1849
+    deathdate: 1937
+    gutenberg_agent_id: '2036'
+    url: http://www.gutenberg.org/2009/agents/2036
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- !lcsh 'Ice cream, ices, etc.'
+- !lcsh 'Frozen desserts'
+- GITenberg
+title: Ice Creams, Water Ices, Frozen Puddings Together with Refreshments for all
+  Social Affairs
+url: http://www.gutenberg.org/ebooks/8501
